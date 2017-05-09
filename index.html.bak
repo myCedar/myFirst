@@ -1347,7 +1347,7 @@
            </div>
            <div class="tab_box">
                <!--超值大牌-->
-               <div class="tab_sbox tabOnselect" id="tab_content1">
+               <div class="tab_sbox tapOnselect" id="tab_content1">
                  <div class="tab_all">
                      <div class="tabl">
                         <img src="images/1_nr/tab1.jpg"/>

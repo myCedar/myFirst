@@ -806,8 +806,8 @@ a:hover{
     overflow:hidden;
 }
 .tabOnselect{
-	opacity:1 !important;
-    height:430px !important;
+	opacity:1;
+    height:430px;
 }
 /*1楼*/
 /*超值大牌*/

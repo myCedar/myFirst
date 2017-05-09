@@ -126,7 +126,7 @@
             for(var i=0;i<divs.length;i++){
                 //divs[i].style.opacity="";
                 //divs[i].style.height="";
-				divs[i].className="tab_sbox";
+				div[i].className="tab_sbox";
             }
             //查找a的href中最后一个#的位置i
             var i = this.href.lastIndexOf("#");
